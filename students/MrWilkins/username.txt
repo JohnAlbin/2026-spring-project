@@ -1,2 +1,3 @@
-Name: John Albin Wilkins
+Name: Mr. John Albin Wilkins
+Role: Teacher
 GitHub: https://github.com/JohnAlbin
